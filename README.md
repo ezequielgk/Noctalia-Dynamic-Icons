@@ -8,7 +8,6 @@ Dynamic icons for GTK file managers (Nemo, Thunar, Nautilus, Caja). These script
 
 ### Papirus
 ![Papirus Preview](img/papirus.png)
-To install the Papirus theme, run the following command:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/papirus.sh | bash
 ```
@@ -17,8 +16,6 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 
 ### Colloid 
 ![Colloid Preview](img/colloid.png)
-*Currently under maintenance. Use with caution.*
-
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/colloid.sh | bash
 ```
@@ -27,8 +24,6 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 
 ### Flat-Remix
 ![Flat-Remix Preview](img/flat.png)
-To install the Flat-Remix theme:
-
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/flat-remix.sh | bash
 ```
@@ -45,6 +40,8 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 
 ### Reversal
 ![Reversal Preview](img/reversal.png)
+*Currently under maintenance. Use with caution.*
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/reversal.sh | bash
 ```
@@ -56,5 +53,3 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/zafiro.sh | bash
 ```
-
----
