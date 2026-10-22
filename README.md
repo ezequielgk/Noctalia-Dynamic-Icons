@@ -16,7 +16,7 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ---
 
 ### Colloid 
-![Colloid Preview](img/colloid-dark.png)
+![Colloid Preview](img/colloid.png)
 *Currently under maintenance. Use with caution.*
 
 ```bash
@@ -26,7 +26,7 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ---
 
 ### Flat-Remix
-![Flat-Remix Preview](img/flat-remix.png)
+![Flat-Remix Preview](img/flat.png)
 To install the Flat-Remix theme:
 
 ```bash
@@ -36,6 +36,7 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ---
 
 ### Tela
+![Tela Preview](img/tela.png)
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/tela.sh | bash
 ```
@@ -43,6 +44,7 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ---
 
 ### Reversal
+![Reversal Preview](img/reversal.png)
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/reversal.sh | bash
 ```
@@ -50,6 +52,7 @@ curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/m
 ---
 
 ### Zafiro
+![Zafiro Preview](img/zafiro.png)
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ezequielgk/noctalia-dynamic-icons/main/zafiro.sh | bash
 ```
